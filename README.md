@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="#">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -29,8 +29,8 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<a href="#">
+<strong>Open to music recommendations</strong>
 <br />
 <br />
 
@@ -44,19 +44,6 @@
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/vikram42003"><img width="24" src="https://avatars.githubusercontent.com/u/64071211?s=24&u=9c8e34fce7494b3e25c5f1ee1eb55800e940e79a&v=4" alt="vikram42003" /> vikram42003</a> |10/12/2025, 7:47:42 AM|Whoa this is super cool!|
-| <a href="https://github.com/AnshumanJadiya1102-2"><img width="24" src="https://avatars.githubusercontent.com/u/229737245?s=24&u=42acef0930af7a6f6ca8ef9d98f07c878573373a&v=4" alt="AnshumanJadiya1102-2" /> AnshumanJadiya1102-2</a> |10/7/2025, 4:05:44 PM|It,s Nice|
-| <a href="https://github.com/RixInGithub"><img width="24" src="https://avatars.githubusercontent.com/u/87478581?s=24&u=8c3395853dbe6352ce04bc223a26f94576fe8a0e&v=4" alt="RixInGithub" /> RixInGithub</a> |10/3/2025, 4:41:43 PM|i am @RixInGithub|
-| <a href="https://github.com/anshumanjadiya1102"><img width="24" src="https://avatars.githubusercontent.com/u/225169841?s=24&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" /> anshumanjadiya1102</a> |10/3/2025, 6:25:05 AM|Hello, Visit https://github.com/anshumanjadiya1102. Please suggest Improvements...|
-| <a href="https://github.com/kirakira-dev"><img width="24" src="https://avatars.githubusercontent.com/u/201024996?s=24&u=55f069aec161c60ff135446f5a98bdc46e3204bd&v=4" alt="kirakira-dev" /> kirakira-dev</a> |10/3/2025, 6:20:47 AM|Hi!! こんにちは！！😄　你好👋！！|
-<!-- /Guestbook -->
 
 <!-- Footer -->
 
