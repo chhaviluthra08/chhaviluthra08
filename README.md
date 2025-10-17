@@ -1,65 +1,61 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Chhavi and I been loving python" src="images/personal_note.svg" />
-  <br />
-  <br />
-
-</div>
-
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="#">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-
-
-<td align="center">
-<a href="#">
-<strong>Open to music recommendations</strong>
-<br />
-<br />
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-
-<!-- Footer -->
+<!-- ✨ VINTAGE 90s WEB RETRO PROFILE ✨ -->
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<img src="https://i.ibb.co/QvbycvN/retro-divider.gif" width="100%" alt="retro divider">
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+# 🌈 **Welcome to Chhavi's Corner of the Internet!**
 
+<img src="https://i.ibb.co/ZxSkf3v/computer-cat.gif" width="120" alt="retro cat computer">  
+<sub><i>“Best viewed on a CRT monitor.”</i></sub>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+---
+
+### 💾 About Me
+🧠 Engineering student • 🧩 Web tinkerer • 💻 Code + Coffee believer  
+🎨 I love mixing design, tech, and nostalgia into weird, wonderful projects.  
+💡 Building apps that *feel alive*, not just work.
+
+---
+
+### 🛠️ My Favorite Tech
+`React` • `Flask` • `Python` • `Machine Learning` • `SQLite` • `Tailwind`
+
+---
+
+### 🕹️ Featured Creations
+| 🌟 Project | 🧩 Description | ⚙️ Stack |
+|:------------|:----------------|:------------|
+| 🧠 **ADHD/Dyslexia App** | Multimedia AI-based screening tool | Flask, Streamlit |
+| ☀️ **Solar Potential Map** | ML-based rooftop energy mapping | Python, CNN |
+| 💬 **Retro Chatbot** | Real-time nostalgic chat interface | React, Node.js |
+
+---
+
+### 📟 Stats & Badges
+![Profile Views](https://komarev.com/ghpvc/?username=ChhaviLuthra&color=ff69b4&style=flat-square)  
+![Static Badge](https://img.shields.io/badge/✨-Web%20Time%20Traveler-pink)  
+![Static Badge](https://img.shields.io/badge/🧃-Creative%20Coder-blueviolet)  
+![Static Badge](https://img.shields.io/badge/🌈-Retro%20Aesthetic-yellow)
+
+---
+
+### 🧑‍💻 GitHub Vibes
+<img src="https://github-readme-stats.vercel.app/api?username=ChhaviLuthra&show_icons=true&theme=radical&hide_border=true" width="400"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChhaviLuthra&theme=radical&hide_border=true" width="400"/>
+
+---
+
+### 🌐 Let's Be Internet Friends
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/-Email%20Me-red?logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+<img src="https://i.ibb.co/4Tdfv0H/under-construction.gif" width="60">  
+<sub>⚠️ This profile is proudly built with 90s internet spirit ⚡</sub>
+
+<img src="https://i.ibb.co/QvbycvN/retro-divider.gif" width="100%" alt="retro divider">
 
 </div>
